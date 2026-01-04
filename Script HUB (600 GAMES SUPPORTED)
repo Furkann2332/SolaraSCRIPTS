@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/SCRIPTHUBV3/main/SCRIPTHUBV3", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DesyncScriptV2/DesyncScript/refs/heads/main/Desync"))()
